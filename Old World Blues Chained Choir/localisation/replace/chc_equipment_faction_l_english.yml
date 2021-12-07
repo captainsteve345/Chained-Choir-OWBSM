@@ -1,0 +1,9 @@
+﻿l_english:
+
+# CHC (Chained Choir)
+  CHC_melee_equipment_1:0 "Prison Shiv"
+  CHC_melee_equipment_1_short:0 "Shiv"
+  CHC_melee_equipment_1_desc:0 "More commonly seen in the hands of prisoners trying to silence snitches than as mass produced weapon of war, the prison shiv is a simple improvised blade made primarily for piercing and stabbing than slashing at foes. First used by the prisoners orginally posessed by the Choir, following their escape it began it's mass production with the lessons from these former convicts - their sheer brutality giving them theur deadly nature from the vicious tactics used, with wielders going for the jugular or arteries rather than fighting fair."
+  CHC_ballistic_equipment_1:0 "9mm Submachine Gun"
+  CHC_ballistic_equipment_1_short:0 "9mm SMG"
+  CHC_ballistic_equipment_1_desc:0 "The 9mm submachine gun is a classic that hardly needs an introduction. Salvaged en masse from armouries scattered around the former prison yards, the robust and compact design still makes for an effective killer hundreds of years after the bombs fell, requiring only basic maintenance. Spray and Pray has never been this much fun."

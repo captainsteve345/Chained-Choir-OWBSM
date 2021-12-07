@@ -1,0 +1,33 @@
+####################################################
+#         NEW CHAINED CHOIR Focus Tree			   #
+#           Mod by captainsteve345				   #	
+#		  Pending a professional touch             #
+####################################################
+
+focus_tree = {
+	id = choir_focus
+	
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = CHC
+		}
+	}
+	
+	default = no
+
+	focus = {
+		id = chc_ourhome
+		icon = GFX_chc_generic
+		cost = 7
+		x = 16
+		y = 0
+		completion_reward = {
+			country_event = test_event.1
+			}
+		}
+	}
+
+}
+ 

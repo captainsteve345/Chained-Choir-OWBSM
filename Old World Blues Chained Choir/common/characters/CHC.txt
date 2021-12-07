@@ -1,0 +1,61 @@
+characters={
+	CHC_the_first_chorister={
+		name="The First Choirist"
+		portraits={
+			civilian={
+				large="gfx/leaders/CHC/portrait_subjecteleven.dds"
+			}
+		}
+		country_leader={
+			desc="FIRST_CHORISTER_DESC"
+			ideology=technocracy
+			traits={ experiment_0011 immortal_engineering }
+			expire="4000.1.1.1"
+			id=-1
+		}
+	}
+	
+	CHC_choir_fourty={
+		name="Choir of Fourty"
+		portraits={
+			civilian={
+				large="gfx/leaders/settler/portrait_settler_generic_18.dds"
+			}
+		}
+		country_leader={
+			ideology=commune
+			expire="2289.1.1.12"
+			id=-1
+		}
+	}
+
+	CHC_choir_mistress={
+		name="The Choirmistress"
+		portraits={
+			civilian={
+				large="gfx/leaders/settler/portrait_settler_generic_13.dds"
+			}
+		}
+		country_leader={
+			ideology=conspiratory_oligarchy
+			traits={ armaments_organizer war_industrialist }
+			expire="2285.1.1.12"
+			id=-1
+		}
+	}
+
+	CHC_conductor_the={
+		name="The Conductor"
+		portraits={
+			civilian={
+				large="gfx/leaders/settler/portrait_settler_generic_20.dds"
+			}
+		}
+		country_leader={
+			ideology=chieftain
+			traits={ smooth_talking_charmer war_industrialist }
+			expire="2281.1.1.12"
+			id=-1
+		}
+	}
+}

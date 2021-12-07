@@ -1,0 +1,27 @@
+﻿##########################
+#     Chained Choir 	 #
+#         Events         #
+##########################
+
+add_namespace = nf_event_chc
+
+#our home
+ountry_event = {
+	id = test_event.1
+	title = test_event.1.t
+	desc = test_event.1.d
+	picture = GFX_report_event_fascist_speech
+	is_triggered_only = yes
+	option = {
+		name = test_event.1.a
+		random_unit_leader = {
+		 	limit = {
+		 		has_id = 44444
+		 	}
+		 	set_country_leader_portrait = {
+		 		portrait = "GFX_Portrait_SHA_secret_animated"
+		 	}
+		 }
+
+	}
+}

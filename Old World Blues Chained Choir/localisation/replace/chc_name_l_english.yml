@@ -1,0 +1,15 @@
+﻿l_english:
+
+#CHC
+  CHC_elites:0 "The Chaining Choir"
+  CHC_elites_ADJ:0 "Choirister"
+  CHC_elites_DEF:0 "the Chaining Choir"
+  CHC_intellectuals:0 "The Chained Choir"
+  CHC_intellectuals_ADJ:0 "Choral"
+  CHC_intellectuals_DEF:0 "The Chained Choir"
+  CHC_people:0 "The Unchained Choir"
+  CHC_people_ADJ:0 "Choirist"
+  CHC_people_DEF:0 "the Unchained Choir"
+  CHC_ruler:0 "The Conductor's Choir"
+  CHC_ruler_ADJ:0 "Conducted"
+  CHC_ruler_DEF:0 "the Conductor's Choir"
