@@ -5,7 +5,7 @@
 
 add_namespace = nf_event_chc
 
-#our home
+#placeholder
 country_event = {
 	id = test_event.1
 	title = test_event.1.t
@@ -23,5 +23,33 @@ country_event = {
 		 	}
 		 }
 
+	}
+}
+
+#OurHome
+country_event = {
+	id = nf_event_chc.1
+	title = nf_event_chc.1.t
+	desc = nf_event_chc.1.d
+	picture = GFX_nf_chc_ourhome
+	is_triggered_only = yes
+	option = {
+		name = nf_event_chc.1.a
+		add_manpower = 4
+	}
+
+}
+
+#OurSong
+country_event = {
+	id = nf_event_chc.2
+	title = nf_event_chc.2.t
+	desc = nf_event_chc.2.d
+	picture = GFX_nf_chc_oursong
+	is_triggered_only = yes
+	option = {
+		name = nf_event_chc.2.a
+		add_manpower = 100
+		add_manpower = -50
 	}
 }

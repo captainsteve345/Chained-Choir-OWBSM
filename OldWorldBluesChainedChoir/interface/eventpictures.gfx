@@ -1,0 +1,12 @@
+spriteTypes = {
+
+    spriteType = {
+        name = "GFX_nf_chc_ourhome"
+        texturefile = /gfx/event_pictures/event_CHC_OurHome.dds
+    }
+
+	spriteType = {
+		name = "GFX_nf_chc_oursong"
+		texturefile = /gfx/event_pictures/event_CHC_OurSong.dds
+	}
+}

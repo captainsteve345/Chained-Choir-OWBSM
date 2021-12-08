@@ -24,7 +24,7 @@ characters={
 		}
 		country_leader={
 			ideology=commune
-			expire="2289.1.1.12"
+			expire="4000.1.1.12"
 			id=-1
 		}
 	}
@@ -38,8 +38,8 @@ characters={
 		}
 		country_leader={
 			ideology=conspiratory_oligarchy
-			traits={ armaments_organizer war_industrialist }
-			expire="2285.1.1.12"
+			traits={ dictator nationalist_symbol }
+			expire="4000.1.1.12"
 			id=-1
 		}
 	}
@@ -54,7 +54,7 @@ characters={
 		country_leader={
 			ideology=chieftain
 			traits={ smooth_talking_charmer war_industrialist }
-			expire="2281.1.1.12"
+			expire="4000.1.1.12"
 			id=-1
 		}
 	}
