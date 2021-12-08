@@ -8,7 +8,7 @@ characters={
 		}
 		country_leader={
 			desc="FIRST_CHORISTER_DESC"
-			ideology=technocracy
+			ideology=ideocracy
 			traits={ experiment_0011 immortal_engineering }
 			expire="4000.1.1.1"
 			id=-1

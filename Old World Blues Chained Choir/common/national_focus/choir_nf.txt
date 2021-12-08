@@ -16,16 +16,28 @@ focus_tree = {
 	}
 	
 	default = no
+	continuous_focus_position = { x = 50 y = 1000}
 
 	focus = {
 		id = chc_ourhome
-		icon = GFX_chc_generic
+		icon = gfx_chc_focus_generic
 		cost = 7
 		x = 16
 		y = 0
 		completion_reward = {
 			country_event = test_event.1
 			}
+		}
+	}
+
+	focus = {
+		id = chc_oursong
+		icon = gfx_chc_oursong
+		cost = 7
+		x = 16
+		y = 1
+		completion_reward = {
+			country_event = test_event.1
 		}
 	}
 

@@ -1,0 +1,37 @@
+focus_tree = {
+	id = chcsm_nf
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = CHC
+		}
+	}
+	default = no
+	focus = {
+		id = chc_ourhome
+		text = Our Home
+		icon = GFX_mur_flag
+		cost = 7
+		x = 12
+		y = 0
+			completion_reward = {
+					country_event = {
+							id = nf_chc.1
+						}
+				}
+
+	}
+	focus = {
+		id = chc_oursong
+		text = Our Song
+		icon = GFX_mlt_cascadian_current
+		cost = 7
+		x = 12
+		y = 1
+			completion_reward = {
+					id = nf_chc.2
+				}
+
+	}
+}

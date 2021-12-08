@@ -1,0 +1,12 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "gfx_chc_oursong"
+		texturefile = "gfx/interface/goals/chc_oursong.dds"
+	}
+
+	spriteType = {
+		name = "gfx_chc_focus_generic"
+		texturefile = "gfx/interface/goals/chc_focus_generic.dds"
+	}
+}
