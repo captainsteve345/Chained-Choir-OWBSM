@@ -53,3 +53,16 @@ country_event = {
 		add_manpower = -50
 	}
 }
+
+#OurNextConcerto
+country_event = {
+	id = nf_event_chc.3
+	title = nf_event_chc.3.t
+	desc = nf_event_chc.3.d
+	picture = gfx_chc_ournextconcerto
+	is_triggered_only = yes
+	option = {
+		name = nf_event_chc.3.a
+		production_speed_buildings_factor = 1.5
+	}
+}

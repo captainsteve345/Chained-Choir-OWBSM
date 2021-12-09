@@ -9,4 +9,9 @@ spriteTypes = {
 		name = "GFX_nf_chc_oursong"
 		texturefile = /gfx/event_pictures/event_CHC_OurSong.dds
 	}
+
+	spriteType = {
+		name = "gfx_chc_ournextconcerto"
+		texturefile = gfx/interface/goals/event_CHC_ournextconcerto.dds
+	}
 }
