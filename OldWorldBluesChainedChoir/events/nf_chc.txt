@@ -63,6 +63,6 @@ country_event = {
 	is_triggered_only = yes
 	option = {
 		name = nf_event_chc.3.a
-		production_speed_buildings_factor = 1.5
+		add_idea = 
 	}
 }

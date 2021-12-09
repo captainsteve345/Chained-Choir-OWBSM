@@ -10,8 +10,4 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/chc_focus_generic.dds"
 	}
 
-	spriteType = {
-		name = "gfx_chc_ournextconcerto"
-		texturefile = "gfx/interface/goals/event_CHC_ournextconcerto.dds"
-	}
 }

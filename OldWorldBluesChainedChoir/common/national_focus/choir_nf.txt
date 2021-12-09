@@ -40,5 +40,16 @@ focus_tree = {
 			country_event = nf_event_chc.2
 		}
 	}
+
+	focus = {
+		id = chc_ournextconcerto
+		icon = gfx_chc_focus_generic
+		cost = 7
+		x = 16
+		y = 2
+		completion_reward = {
+			country_event = nf_event_chc.3
+		}
+	}
 }
  
